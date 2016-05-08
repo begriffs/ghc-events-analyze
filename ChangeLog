@@ -1,3 +1,7 @@
+2015-05-08 Joe Nelson <cred+github@begriffs.com>
+
+  * Bump versions of dependencies to satisfy packdeps
+
 2015-01-19 Will Sewell <will@pusher.com>
 
   * Bump optparse-applicative and lens versions
